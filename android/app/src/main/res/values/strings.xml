@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Halsogourmet</string>
+    <string name="facebook_app_id">687237286444621</string>
+    <string name="fb_login_protocol_scheme">fb687237286444621</string>
+    <string name="facebook_client_token">3dca6ad7865a0000457473b51c4f18e3</string>
+</resources>

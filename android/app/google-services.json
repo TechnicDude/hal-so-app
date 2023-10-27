@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "514525126341",
+    "project_id": "halsogourmet-d237a",
+    "storage_bucket": "halsogourmet-d237a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514525126341:android:7c745150a61a65d69ddaac",
+        "android_client_info": {
+          "package_name": "com.halsogourmet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514525126341-samt02a8e8qcrn6qlikq5quus3r4cd1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halsogourmet.app",
+            "certificate_hash": "8c7b0b00c78cf56f8af1121bcbfb4443d3918a94"
+          }
+        },
+        {
+          "client_id": "514525126341-tp982tb90ldmetcqnd9i7n65g881shrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FVMBFb-Qy5y-hhVVAARoYc56xg8bJhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514525126341-tp982tb90ldmetcqnd9i7n65g881shrr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514525126341-fgb2v5sntfrogu0eds8vn4qk2npdvr5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halsogourmetapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
