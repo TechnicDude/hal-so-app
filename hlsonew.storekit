@@ -1,0 +1,54 @@
+{
+  "identifier" : "644B2600",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1662853472",
+    "_developerTeamID" : "AZD2A48945",
+    "_lastSynchronizedDate" : 699533595.18764997
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21208891",
+      "localizations" : [
+
+      ],
+      "name" : "Halso Packges",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "6.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6446022619",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Få tillgång till alla recept under en månad",
+              "displayName" : "1 månad",
+              "locale" : "sv"
+            }
+          ],
+          "productID" : "Halso_89_1month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "1 månad",
+          "subscriptionGroupID" : "21208891",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
