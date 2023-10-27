@@ -1,0 +1,17 @@
+{
+  "provider": "apple_pay",
+  "data": {
+    "merchantIdentifier": "merchant.com.halsogourmet",
+    "displayName": "Halsogourmet",
+    "merchantCapabilities": ["3DS","debit","credit"],
+    "supportedNetworks": [
+      "amex",
+      "visa",
+      "discover",
+      "masterCard"
+    ],
+    "countryCode": "SE",
+    "currencyCode": "SEK"
+    
+  }
+}
